@@ -6,6 +6,11 @@
 **Software:** Python, Google Colab  
 **Data:** Hypothetical subsurface model
 
+## Quick Links
+
+- [Python Notebook](notebooks/)
+- [Python Figures](figures/)
+  
 ## Project Overview
 
 This exercise explores the fundamentals of synthetic seismic modelling using Python. A simplified, hypothetical layered earth model was constructed to investigate how variations in velocity and density influence seismic reflections and the resulting synthetic seismic trace.
